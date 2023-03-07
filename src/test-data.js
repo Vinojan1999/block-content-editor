@@ -228,7 +228,7 @@ const blocks = JSON.parse(`
 
 const header = JSON.parse(`
   { 
-    "displayDate1":"2023-03-07",
+    "displayDate1":"2023-03-06",
     "displayDate2":"© Vinojan Abhimanyu",
     "subTitle":"Created with react-brandywine-editor",
     "title":"Your first post"
